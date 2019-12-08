@@ -1,0 +1,1 @@
+{"version":3,"sources":["holisticModel.module.scss"],"names":[],"mappings":"AAAA,0CACE,wBAAyB,CAD3B,uEAGI,UAAW,CACX,WAAY,CACZ,WAAY,CACZ,YAAa","file":"5.66c88897.chunk.css","sourcesContent":[".holistic-model-page {\n  height: calc(100% - 50px);\n  .iframe {\n    width: 100%;\n    height: 100%;\n    border: none;\n    outline: none;\n  }\n}\n"]}

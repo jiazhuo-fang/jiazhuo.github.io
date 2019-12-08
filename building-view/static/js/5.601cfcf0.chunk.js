@@ -1,0 +1,2 @@
+(this.webpackJsonpwork=this.webpackJsonpwork||[]).push([[5],{224:function(e,t,i){e.exports={"holistic-model-page":"holisticModel_holistic-model-page__1rdbs",iframe:"holisticModel_iframe__1NXmK"}},330:function(e,t,i){"use strict";i.r(t);var a=i(0),o=i.n(a),s=i(224),l=i.n(s);console.log(l.a),t.default=function(){return o.a.createElement("div",{className:l.a["holistic-model-page"]},o.a.createElement("iframe",{className:l.a.iframe,src:"http://116.228.152.154:18081/rvtView/rvtView/indexpm.html",title:"\u6574\u4f53\u6a21\u578b"}))}}}]);
+//# sourceMappingURL=5.601cfcf0.chunk.js.map
